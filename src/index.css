@@ -1,0 +1,16 @@
+h1{
+    margin: 20px;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+.nav-link{
+    color: rgb(255, 255, 255);
+    font-family: monospace;
+}
+.nav-link:hover{
+    color: rgb(38, 0, 255);
+}
+.btn{
+  background-color: rgb(37, 36, 33);
+  color: rgb(254, 254, 254);
+}
